@@ -1,1 +1,2 @@
-This is the basic authentication of users data
+# Simple API
+the basic api
